@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ranjith/banyan_web/static/css/main.2eb8317a.css",
+    "main.js": "/ranjith/banyan_web/static/js/main.8c07bc74.js",
+    "static/media/background.png": "/ranjith/banyan_web/static/media/background.9cff0556801726e52680.png",
+    "static/media/Group.png": "/ranjith/banyan_web/static/media/Group.2c1d2282017e4454c764.png",
+    "static/media/img_three.png": "/ranjith/banyan_web/static/media/img_three.b550544b75515ea1488e.png",
+    "static/media/img_five.png": "/ranjith/banyan_web/static/media/img_five.442109824e5f4bc1d2eb.png",
+    "static/media/img_one.png": "/ranjith/banyan_web/static/media/img_one.f5021a80658970c2e36b.png",
+    "static/media/gifone.png": "/ranjith/banyan_web/static/media/gifone.2c0f8a52a6ef36e0cba5.png",
+    "static/media/giftwo.png": "/ranjith/banyan_web/static/media/giftwo.acd5c40dfd3d7ba9d6a3.png",
+    "static/media/img_two.png": "/ranjith/banyan_web/static/media/img_two.87eec5aa4cc24bd5b11b.png",
+    "static/media/img_four.png": "/ranjith/banyan_web/static/media/img_four.bd8a07ce1502ff023d13.png",
+    "static/media/banyan_logo.png": "/ranjith/banyan_web/static/media/banyan_logo.ded9fb942761d3906138.png",
+    "static/media/IconsThree.png": "/ranjith/banyan_web/static/media/IconsThree.b00b537249e97d74f5fc.png",
+    "index.html": "/ranjith/banyan_web/index.html",
+    "main.2eb8317a.css.map": "/ranjith/banyan_web/static/css/main.2eb8317a.css.map",
+    "main.8c07bc74.js.map": "/ranjith/banyan_web/static/js/main.8c07bc74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eb8317a.css",
+    "static/js/main.8c07bc74.js"
+  ]
+}
