@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ranjith/banyan_web/static/css/main.2eb8317a.css",
-    "main.js": "/ranjith/banyan_web/static/js/main.8c07bc74.js",
+    "main.js": "/ranjith/banyan_web/static/js/main.cc1f4d3f.js",
     "static/media/background.png": "/ranjith/banyan_web/static/media/background.9cff0556801726e52680.png",
     "static/media/Group.png": "/ranjith/banyan_web/static/media/Group.2c1d2282017e4454c764.png",
     "static/media/img_three.png": "/ranjith/banyan_web/static/media/img_three.b550544b75515ea1488e.png",
@@ -15,10 +15,10 @@
     "static/media/IconsThree.png": "/ranjith/banyan_web/static/media/IconsThree.b00b537249e97d74f5fc.png",
     "index.html": "/ranjith/banyan_web/index.html",
     "main.2eb8317a.css.map": "/ranjith/banyan_web/static/css/main.2eb8317a.css.map",
-    "main.8c07bc74.js.map": "/ranjith/banyan_web/static/js/main.8c07bc74.js.map"
+    "main.cc1f4d3f.js.map": "/ranjith/banyan_web/static/js/main.cc1f4d3f.js.map"
   },
   "entrypoints": [
     "static/css/main.2eb8317a.css",
-    "static/js/main.8c07bc74.js"
+    "static/js/main.cc1f4d3f.js"
   ]
 }
